@@ -6,4 +6,4 @@ Habilidades: JS / HTML / CSS / C# / SQL / Wordpress
 - 🔭 Estoy trabajando en Sistemas BPM 
 - 🌱 Estoy aprendiendo mas sobre .NET, Xamarin y Servicios Web 
 - 📫 Cómo contactarme: tpraul_17@hotmail.com 
-- ⚡ Eh trabajado con Wordpress, he aquí la pagina https://todosanpablodelmonte.com/ 
+- ⚡ He trabajado con Wordpress, aquí la pagina https://todosanpablodelmonte.com/ 
