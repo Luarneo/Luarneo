@@ -1,4 +1,4 @@
-### Hola 👋, mi nombre es Raúl Tlalpa
+### Hola 👋, mi nombre es Raúl Tlalpa Potrero
 Soy desarrollador web con muchas ganas de seguir explorando el mundo tecnológico.
 
 Habilidades: .NET / Angular / SQL Server / C# / TypeScript / WCF / Laserfiche (BPM) / Wordpress
