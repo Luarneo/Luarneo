@@ -1,9 +1,8 @@
-### Hola 👋, mi nombre es Raúl
-Soy desarrollador web jr. con muchas ganas de seguir explorando el mundo tecnológico.
+### Hola 👋, mi nombre es Raúl Tlalpa
+Soy desarrollador web con muchas ganas de seguir explorando el mundo tecnológico.
 
-Habilidades: JS / HTML / CSS / C# / SQL / .NET / WCF / BPM /Wordpress
+Habilidades: .NET / Angular / SQL Server / C# / TypeScript / WCF / Laserfiche (BPM) / Wordpress
 
 - 🔭 Estoy trabajando en Sistemas BPM 
 - 🌱 Estoy aprendiendo mas sobre Angular
-- 📫 Cómo contactarme: tpraul_17@hotmail.com 
-- ⚡ He trabajado con Wordpress, aquí la pagina https://todosanpablodelmonte.com/ 
+- 📫 Cómo contactarme: tpraul_17@hotmail.com, Movil: 2224735679
